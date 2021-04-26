@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\js",
+    "\\images"
   ],
-  "SelectedNode": "\\elements.html",
+  "SelectedNode": "\\assets\\js\\jquery.min.js",
   "PreviewInSolutionExplorer": false
 }
